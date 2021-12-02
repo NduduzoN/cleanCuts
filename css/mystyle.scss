@@ -1,0 +1,34 @@
+
+html{
+
+    font-size: 10px;
+}
+body{
+
+    
+    background-image: url('../img/imgandre-reis-1_DAlXy0wng-unsplash');
+    background-size: 100%;
+    
+}
+.navbar{
+
+    background-color: goldenrod;
+    color: white;
+}
+.navbar-brand{
+top: 0px;
+
+
+}
+.bg-primary {
+    background-color: goldenrod!important;
+    color: silver;
+}
+.nav-link ul li a {
+    background-color: silver!important;
+}
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: goldenrod;
+    border-color: gold;
+}
